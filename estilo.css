@@ -1,0 +1,26 @@
+body{
+    background-color: chocolate;
+    background-image: url("mario.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+p{
+    color: white;
+}
+h1{
+    font-size: 35px;
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sabores{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cyan;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+

@@ -1,0 +1,14 @@
+.alternada{
+    font-size: 50px;
+    list-style:upper-alpha;
+    color: darkorange;
+}
+.alternada li:nth-child(4){
+    background-color: darkslateblue;
+}
+
+
+
+
+
+

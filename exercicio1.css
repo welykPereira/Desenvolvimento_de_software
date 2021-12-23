@@ -1,0 +1,35 @@
+.div{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    text-align: center;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: darkgreen;
+}
+.div2{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: chocolate;
+}
+.div3{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: blueviolet;
+}
+.div4{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: blue;
+}
+
+
+
